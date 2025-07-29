@@ -1,0 +1,24 @@
+a:hover{
+    text-decoration: underline;
+}
+img{
+    cursor: pointer;
+}
+.m-3 img:hover{
+    transition: ease-out 1s;
+    border-radius: 30%;
+}
+p{
+    cursor: pointer;
+}
+p:hover{
+    text-decoration: underline;
+}
+h1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#btn button:hover{
+    transition: all 2s;
+    background: rgb(53, 59, 65);
+}
